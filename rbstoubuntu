@@ -1,0 +1,2 @@
+
+PROMPT> mysql -h demodb.cpfu2ubhphat.us-east-1.rds.amazonaws.com -P 3306 -u root -padityasanjeev
